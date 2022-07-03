@@ -1,0 +1,8 @@
+black
+fastapi
+uvicorn
+pydantic[standard]
+jinja2
+aiofiles
+odmantic
+pymongo[srv]
