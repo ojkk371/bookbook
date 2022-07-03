@@ -12,5 +12,9 @@ python3 -m pip install .
 ```bash
 python3 server.py
 ```
-  
+#
+### Result
+![](./assets/server_run.png)
+#
 ### Link : [localhost:8000](http://localhost:8000)
+![](./assets/search.png)
